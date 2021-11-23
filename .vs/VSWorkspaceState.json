@@ -2,8 +2,9 @@
   "ExpandedNodes": [
     "",
     "\\GraphicsProject",
-    "\\GraphicsProject\\cmake\\Modules"
+    "\\GraphicsProject\\Assignment-1",
+    "\\GraphicsProject\\Assignment-1\\src"
   ],
-  "SelectedNode": "\\GraphicsProject",
+  "SelectedNode": "\\GraphicsProject\\Assignment-1\\src\\assignment-1.cpp",
   "PreviewInSolutionExplorer": false
 }

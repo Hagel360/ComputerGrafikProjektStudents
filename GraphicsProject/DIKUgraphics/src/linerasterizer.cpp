@@ -22,7 +22,7 @@ LineRasterizer::LineRasterizer(int x1, int y1, int x2, int y2)
 /*
  * Destroys the current instance of the line rasterizer
  */
-LineRasterizer::~LineRasterizer()
+LineRasterizer::~LineRasterizer()   
 {}
 
 /*
